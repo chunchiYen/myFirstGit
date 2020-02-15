@@ -1,0 +1,12 @@
+接下來，建立2個分支來嘗試平行操作吧。
+
+首先，請建立 issue2 分支和 issue3 分支，並切換到 issue2 分支。
+
+$ git branch issue2
+$ git branch issue3
+$ git checkout issue2
+Switched to branch 'issue2'
+$ git branch
+* issue2
+  issue3
+  master
