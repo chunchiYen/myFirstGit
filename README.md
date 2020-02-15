@@ -1,0 +1,2 @@
+# myFirstGit
+GIT練習
