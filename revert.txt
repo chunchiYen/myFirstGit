@@ -3,3 +3,15 @@ $git revert HEAD --no-edit
 $git reset HEAD^ -hard
 $git rebase [branch]
 $ git remote show origin
+
+
+
+$git revert HEAD --no-edit
+$git reset HEAD^ -hard
+$git rebase [branch]
+$ git remote show origin
+
+$git revert HEAD --no-edit
+$git reset HEAD^ -hard
+$git rebase [branch]
+$ git remote show origin
