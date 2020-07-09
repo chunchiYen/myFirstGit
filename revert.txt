@@ -1,1 +1,4 @@
 $ git revert HEAD --no-edit
+$git revert HEAD --no-edit
+$git reset HEAD^ -hard
+$git rebase [branch]
