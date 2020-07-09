@@ -1,10 +1,4 @@
-<<<<<<< HEAD
+
 $git revert HEAD --no-edit
 $git reset HEAD^ -hard
 $git rebase [branch]
-=======
-$ git revert HEAD --no-edit
-$git revert HEAD --no-edit
-$git reset HEAD^ -hard
-$git rebase [branch]
->>>>>>> c05c5fb6a1a374dc1925d419805008f5d9a8df69
